@@ -6,8 +6,8 @@ Codes for Not Just Privacy: Improving Performance of Private Deep Learning in Mo
 
 #### 1. Performance test
 - Linux or macOS
-- NVIDIA GPU + CUDA CuDNN or CPU(not recommend)
-- Tensorflow 1.2.1, keras 2.0.4, python 3.6, numpy 1.13.0, scikit-learn 0.18.1
+- NVIDIA GPU + CUDA CuDNN 8.0 or CPU(not recommend)
+- Tensorflow-GPU 1.3.0, keras 2.0.4, python 3.6, numpy 1.13.0, scikit-learn 0.18.1
 
 #### 2. Implementation on Android
 - Linux or macOS
