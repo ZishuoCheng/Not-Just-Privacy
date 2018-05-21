@@ -24,6 +24,4 @@ Codes for Not Just Privacy: Improving Performance of Private Deep Learning in Mo
 
 `ARDEN_test.py` is an example file used to test the proposed framework. Here we use [SVHN dataset](http://ufldl.stanford.edu/housenumbers/).
 
-`reconstruct_mnist.py` is an example for reconstructing the original data from the perturbed data, here is for [MNIST dataset](http://yann.lecun.com/exdb/mnist/).
-
 `TFDroid` is a demo project on Android system for testing the time overhead of `Large-Conv` neural network in mobile devices.
