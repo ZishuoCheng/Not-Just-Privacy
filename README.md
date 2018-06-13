@@ -18,7 +18,7 @@ Codes for Not Just Privacy: Improving Performance of Private Deep Learning in Mo
 ### Notes
 `local_network.py` is the network class for local neural network.
 
-`local_weight.npy` stores the weights of the pretrained local neural network.
+`local_weight.npy` is one demo example, which stores the weights of the pretrained local neural network.
 
 `svhn_train.py` is an example of noisy training, which includes the local and the cloud cloud network. This file will generate the `svhn_noisy_25.npy` which stores the weights of trained cloud network. 
 
