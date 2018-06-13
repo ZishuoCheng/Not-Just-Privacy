@@ -20,7 +20,7 @@ Codes for Not Just Privacy: Improving Performance of Private Deep Learning in Mo
 
 `local_weight.npy` is an example demo, which stores the weights of the pretrained local neural network.
 
-`svhn_train.py` is an example of noisy training, which includes the local and the cloud cloud network. This file will generate the `svhn_noisy_25.npy` which stores the weights of trained cloud network. 
+`svhn_train.py` is an example of noisy training, which includes the local and the cloud network. This file will generate the `svhn_noisy_25.npy` which stores the weights of trained cloud network. 
 
 `ARDEN_test.py` is an example file used to test the proposed framework. Here we use [SVHN dataset](http://ufldl.stanford.edu/housenumbers/).
 
