@@ -1,6 +1,6 @@
 # Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud
 
-Codes for Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud. 
+Demo codes for Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud. 
 
 ### Requiremented denpendencies.
 
