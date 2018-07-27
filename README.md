@@ -1,6 +1,6 @@
 # Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud
 
-Demo codes for Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud. 
+Demo codes for the KDD'18 paper [Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud.](http://www.kdd.org/kdd2018/accepted-papers/view/not-just-privacy-improving-performance-of-private-deep-learning-in-mobile-c) 
 
 ### Requiremented denpendencies.
 
